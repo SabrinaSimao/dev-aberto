@@ -197,7 +197,7 @@ Comando `grep` ([man page](https://linux.die.net/man/1/egrep))
 * use várias branches se quiser testar ideias diferentes
 * `git commit` é grátis. Quando chegar na versão final é só juntar tudo e mandar. 
 * `git rebase` para atualizar seu branch com o `master upstream` caso necessário.
-
+* tutoial simples para `squash` de commits: https://youtu.be/jXDUVsPh4GM
 
 ----
 
